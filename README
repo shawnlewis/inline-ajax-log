@@ -1,1 +1,5 @@
 A simple technique for making ajax request/response debugging easier.
+
+This example provides a wrapper for jQuery.ajax. You also need to put something similar to
+logged-ajax.html into your base html template (or you could write those tags in to the page
+from javascript).
